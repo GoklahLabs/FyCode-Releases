@@ -6,7 +6,7 @@ FyCode é um ambiente desktop para transformar pedidos em projetos reais usando 
 
 **Versão atual:** FyCode Beta V1.1 — `0.1.1`
 
-- **Windows 10/11 64 bits:** o instalador está disponível na página de Releases deste repositório.
+- **Windows 10/11 64 bits:** [baixe na página da Release v0.1.1](https://github.com/GoklahLabs/FyCode-Releases/releases/tag/v0.1.1).
 - **macOS:** em validação. Ainda não disponível para download público.
 
 ## Requisitos
